@@ -25,15 +25,21 @@
 
 ## :eyes: Current Overview
 
-<div align="left">
-  <img src="Images/icons/azhar.png" alt="Azharuddin" width="300px" style="max-width: 100%;">
-</div>
+<table>
+  <tr>
+    <td style="width: 40%; padding-right: 20px; vertical-align: top;">
+      <img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 100%; max-width: 300px;">
+    </td>
+    <td style="width: 60%; vertical-align: top;">
+      <h3>🔭 I’m working - In Programming Hero.</h3>
+      <h3>🌱 I’m exploring - Advance motion graphics for web.</h3>
+      <h3>👯 I’m looking - To collaborate on open source projects.</h3>
+      <h3>🤔 I’m trying - To help people learn web development.</h3>
+      <h3>⚡ Fun fact - I love to make complex origami and I can speak 5 languages.</h3>
+    </td>
+  </tr>
+</table>
 
-### 🔭 I’m working - In Programming Hero.
-### 🌱 I’m exploring - Advance motion graphics for web.
-### 👯 I’m looking - To collaborate on open source projects.
-### 🤔 I’m trying - To help people learn web development.
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
 
 ## :chart_with_upwards_trend: Current Stats
