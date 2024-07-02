@@ -23,8 +23,10 @@
 
 </br>
 
+## :eyes: Current overview
+
 <div align="left">
-<img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto; display: block;">
+src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto;">
 </div>
 
 ### 🔭 I’m working - In Programming Hero. 
@@ -32,6 +34,9 @@
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+
+
+<br />
 
 ## :chart_with_upwards_trend: Current Stats
 
