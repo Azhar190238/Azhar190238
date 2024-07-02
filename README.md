@@ -26,7 +26,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto;">
+<img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto;">
 </div>
 
 ### 🔭 I’m working - In Programming Hero. 
