@@ -6,8 +6,9 @@
 <br />
 <table style="width: 100%;">
   <tr>
-    <td style="width: 40%; padding-right: 20px;">
-      <img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto; display: block;">
+    <td style="width: 40%; padding-right: 20px;">    <div align="right">
+<img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto; display: block;">
+</div>
     </td>
     <td style="width: 60%; vertical-align: top;">
       <h2 style="font-size: 1.5rem; color: #007bff;">I am Azharuddin</h2>
