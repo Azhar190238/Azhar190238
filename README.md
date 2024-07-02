@@ -30,9 +30,8 @@
     <td style="width: 40%; padding-right: 20px; vertical-align: top;">
       <img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 100%; max-width: 300px;">
     </td>
-    <td style="width: 60%; vertical-align: top;">
-      <h2 style="font-size: 1.5rem; color: #007bff;">I am Azharuddin</h2>
-      <p style="font-size: 1rem; color: #333;">
+   <td style="width: 60%; vertical-align: top;">
+          <p style="font-size: 1rem; color: #333;">
         A dedicated web developer with a strong foundation in computer science, having graduated from Khulna University. My skills encompass a range of web technologies including HTML, CSS, JavaScript, React for front-end development, and Node.js, Express for back-end development. I am proficient in database management with MySQL, MongoDB, and experienced with Git for version control. I have developed and maintained multiple websites and web applications, focusing on user experience and performance optimization. My projects include a fully functional e-commerce platform using React and Node.js, a dynamic blog platform using Django, and a personal portfolio website. I excel in problem-solving, attention to detail, and teamwork, and am passionate about continuous learning and staying updated with the latest industry trends.
       </p>
     </td>
