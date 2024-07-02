@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td style="width: 40%; padding-right: 20px;">
-      <img src="assets/img/azhar.png" alt="Azharuddin" style="width: 100%; height: auto; display: block;">
+      <img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 100%; height: auto; display: block;">
     </td>
     <td style="width: 60%;">
       <h2 style="font-size: 1.5rem; color: #007bff;">I am Azharuddin</h2>
