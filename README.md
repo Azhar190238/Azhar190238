@@ -2,7 +2,7 @@
   <img src="Images/banner.png" alt="Banner Image" />
 </a>
 
-## :computer: Technologies that I know
+## :computer: Technologies I am proficient in
 
 <br>
 <p align="center">
