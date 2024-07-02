@@ -23,20 +23,18 @@
 
 </br>
 
-## :eyes: Current overview
+## :eyes: Current Overview
 
 <div align="left">
-<img src="Images/icons/azhar.png" alt="Azharuddin" style="width: 300px; height: auto;">
+  <img src="Images/icons/azhar.png" alt="Azharuddin" width="300px" style="max-width: 100%;">
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
+### 🔭 I’m working - In Programming Hero.
+### 🌱 I’m exploring - Advance motion graphics for web.
+### 👯 I’m looking - To collaborate on open source projects.
+### 🤔 I’m trying - To help people learn web development.
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
-
-<br />
 
 ## :chart_with_upwards_trend: Current Stats
 
